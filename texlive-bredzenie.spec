@@ -1,6 +1,6 @@
 Name:		texlive-bredzenie
 Version:	44371
-Release:	1
+Release:	2
 Summary:	A Polish version of "lorem ipsum..." in the form of a LaTeX package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bredzenie
