@@ -3,7 +3,7 @@ Version:	44371
 Release:	2
 Summary:	A Polish version of "lorem ipsum..." in the form of a LaTeX package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bredzenie
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bredzenie
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bredzenie.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bredzenie.doc.r%{version}.tar.xz
